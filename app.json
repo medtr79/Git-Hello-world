@@ -1,0 +1,23 @@
+{
+  "id": "caddccf6-02b7-480d-aa56-5dbe951a23f3",
+  "name": "Git Hello-world",
+  "publisher": "Default publisher",
+  "brief": "Git Hello-world",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
